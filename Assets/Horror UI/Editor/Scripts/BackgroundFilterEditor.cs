@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CustomEditor(typeof(BackgroundFilter))]
     public class BackgroundFilterEditor : Editor

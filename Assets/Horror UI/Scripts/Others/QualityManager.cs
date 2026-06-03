@@ -5,7 +5,7 @@ using UnityEngine.Audio;
 using UnityEngine.Events;
 using TMPro;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class QualityManager : MonoBehaviour
     {

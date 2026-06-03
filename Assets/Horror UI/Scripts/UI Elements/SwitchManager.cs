@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.Events;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [RequireComponent(typeof(Button))]
     [RequireComponent(typeof(Animator))]

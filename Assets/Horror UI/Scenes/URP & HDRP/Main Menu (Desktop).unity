@@ -27879,7 +27879,7 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 675051727}
   m_Enabled: 1
-  m_Alpha: 1
+  m_Alpha: 0
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
@@ -60660,7 +60660,7 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1464841583}
   m_Enabled: 1
-  m_Alpha: 0
+  m_Alpha: 1
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
@@ -77002,7 +77002,7 @@ MonoBehaviour:
     defaultSelected: {fileID: 978077056}
   settingsHelper: 0
   instantInOnEnable: 1
-  currentPanelIndex: 0
+  currentPanelIndex: 4
   disablePanelAfter: 1
   animationSmoothness: 0.25
   animationSpeed: 1.25
@@ -86986,7 +86986,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7970197879355979252, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: itemList.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7970197879355979252, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: itemList.Array.data[0].itemIcon
@@ -86995,7 +86995,7 @@ PrefabInstance:
     - target: {fileID: 7970197879355979252, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: itemList.Array.data[1].itemIcon
       value: 
-      objectReference: {fileID: 21300000, guid: 2cbc6637dd7d1124c8138918e604d953, type: 3}
+      objectReference: {fileID: 21300000, guid: 5967889aede50c349934e113016baa7a, type: 3}
     - target: {fileID: 7970197879355979252, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: itemList.Array.data[2].itemIcon
       value: 
@@ -87006,7 +87006,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7970197879355979252, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: itemList.Array.data[1].itemTitle
-      value: JAPANESE
+      value: KOREAN
       objectReference: {fileID: 0}
     - target: {fileID: 7970197879355979252, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: itemList.Array.data[2].itemTitle
@@ -87103,6 +87103,10 @@ PrefabInstance:
     - target: {fileID: 7970197879355979255, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: m_Name
       value: Language Selector
+      objectReference: {fileID: 0}
+    - target: {fileID: 7970197879355979255, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7970197879854908143, guid: 2a216e9514670b941bc36e63c0c899bd, type: 3}
       propertyPath: m_text

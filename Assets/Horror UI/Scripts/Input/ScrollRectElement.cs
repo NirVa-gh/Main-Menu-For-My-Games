@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class ScrollRectElement : MonoBehaviour
     {

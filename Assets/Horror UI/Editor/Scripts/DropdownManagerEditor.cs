@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CustomEditor(typeof(DropdownManager))]
     public class DropdownManagerEditor : Editor

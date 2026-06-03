@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CustomEditor(typeof(UIDissolveEffect))]
     public class UIDissolveEffectEditor : Editor

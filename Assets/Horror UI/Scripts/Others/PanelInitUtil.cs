@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Michsky.UI.Util
+namespace Main.UI.Util
 {
     [RequireComponent(typeof(Animator))]
     [RequireComponent(typeof(CanvasGroup))]

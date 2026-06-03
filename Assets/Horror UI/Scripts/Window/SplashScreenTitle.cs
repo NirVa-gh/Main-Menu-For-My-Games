@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [RequireComponent(typeof(Animator))]
     public class SplashScreenTitle : MonoBehaviour

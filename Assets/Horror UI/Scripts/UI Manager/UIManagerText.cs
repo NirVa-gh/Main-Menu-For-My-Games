@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using TMPro;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [ExecuteInEditMode]
     [AddComponentMenu("Dark UI/UI Manager/UI Manager Text")]

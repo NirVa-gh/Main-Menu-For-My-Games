@@ -3,7 +3,7 @@ using System.Globalization;
 using UnityEditor;
 using UnityEngine;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CustomPropertyDrawer(typeof(Color))]
     public class ExtendedColorPicker : PropertyDrawer

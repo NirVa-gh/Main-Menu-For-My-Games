@@ -2,7 +2,7 @@
 using UnityEditor;
 using static UnityEngine.GraphicsBuffer;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CustomEditor(typeof(MainPanelManager))]
     public class MainPanelManagerEditor : Editor

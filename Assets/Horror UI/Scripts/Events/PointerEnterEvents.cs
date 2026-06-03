@@ -2,7 +2,7 @@
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class PointerEnterEvents : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {

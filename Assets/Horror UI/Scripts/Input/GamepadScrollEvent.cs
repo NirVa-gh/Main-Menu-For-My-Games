@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 #endif
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class GamepadScrollEvent : MonoBehaviour
     {

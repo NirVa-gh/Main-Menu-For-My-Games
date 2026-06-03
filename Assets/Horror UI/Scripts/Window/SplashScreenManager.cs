@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [DisallowMultipleComponent]
     public class SplashScreenManager : MonoBehaviour

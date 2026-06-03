@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [AddComponentMenu("Dark UI/Rendering/Blur Manager")]
     public class BlurManager : MonoBehaviour

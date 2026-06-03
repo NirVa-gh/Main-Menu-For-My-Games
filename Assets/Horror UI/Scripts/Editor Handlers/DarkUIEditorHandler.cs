@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class DarkUIEditorHandler : Editor
     {

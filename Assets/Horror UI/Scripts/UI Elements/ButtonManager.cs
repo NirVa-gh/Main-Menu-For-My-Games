@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 using TMPro;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [RequireComponent(typeof(Button))]
     public class ButtonManager : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerDownHandler

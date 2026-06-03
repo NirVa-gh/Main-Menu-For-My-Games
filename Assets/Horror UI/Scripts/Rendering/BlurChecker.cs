@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Rendering;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [ExecuteInEditMode]
     public class BlurChecker : MonoBehaviour

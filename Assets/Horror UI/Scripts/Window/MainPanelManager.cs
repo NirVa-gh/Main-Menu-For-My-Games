@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class MainPanelManager : MonoBehaviour
     {

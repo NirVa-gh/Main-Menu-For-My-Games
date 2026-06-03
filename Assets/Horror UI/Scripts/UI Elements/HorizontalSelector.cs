@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using TMPro;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [RequireComponent(typeof(Animator))]
     public class HorizontalSelector : MonoBehaviour

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [ExecuteInEditMode]
     public class EditorDemoPositionFix : MonoBehaviour

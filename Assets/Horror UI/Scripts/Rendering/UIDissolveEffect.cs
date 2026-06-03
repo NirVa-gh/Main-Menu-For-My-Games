@@ -8,7 +8,7 @@ using System.Linq;
 using UnityEditor;
 #endif
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [ExecuteInEditMode]
     [DisallowMultipleComponent]

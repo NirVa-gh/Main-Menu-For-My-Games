@@ -2,7 +2,7 @@
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class PressKeyEvent : MonoBehaviour
     {

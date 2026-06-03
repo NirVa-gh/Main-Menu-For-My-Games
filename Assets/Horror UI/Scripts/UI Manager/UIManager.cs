@@ -2,7 +2,7 @@
 using UnityEngine.Video;
 using TMPro;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CreateAssetMenu(fileName = "New UI Manager", menuName = "Dark UI/New UI Manager")]
     public class UIManager : ScriptableObject

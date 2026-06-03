@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEditor.Presets;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CustomEditor(typeof(UIManager))]
     [System.Serializable]

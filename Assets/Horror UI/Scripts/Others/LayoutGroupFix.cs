@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [DisallowMultipleComponent]
     [AddComponentMenu("Dark UI/Layout/Layout Group Fix")]

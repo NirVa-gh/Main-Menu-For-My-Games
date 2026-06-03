@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using TMPro;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [RequireComponent(typeof(Slider))]
     public class SliderManager : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler

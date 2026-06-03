@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class UIElementSound : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler
     {

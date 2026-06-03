@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEditor;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     [CanEditMultipleObjects]
     [CustomEditor(typeof(ButtonManager))]

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class TimedEvent : MonoBehaviour
     {

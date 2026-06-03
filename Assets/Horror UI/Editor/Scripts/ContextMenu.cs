@@ -3,7 +3,7 @@
 using UnityEditor;
 using UnityEditor.SceneManagement;
 
-namespace Michsky.UI.Dark
+namespace Main.UI.Dark
 {
     public class ContextMenu : Editor
     {
