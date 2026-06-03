@@ -1,4 +1,4 @@
-# Проект "Like a roguelike"
+# Проект "Main Menu"
 
 <div align="center">
   <img width="690" height="390" alt="Clown" src="https://github.com/user-attachments/assets/d8724e68-26f8-42c1-942c-494cae8775f2" />
